@@ -26,7 +26,7 @@ const About = () => {
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
             <div className="bg-white p-6 rounded-lg shadow-sm border border-gray-200 hover:border-theme-yellow transition-all duration-300 flex flex-col items-center text-center">
               <Briefcase size={36} className="mb-4 text-gray-800" />
-              <h4 className="text-4xl font-bold mb-2">3+</h4>
+              <h4 className="text-4xl font-bold mb-2">1+</h4>
               <p className="text-gray-600">Years Experience</p>
             </div>
             
