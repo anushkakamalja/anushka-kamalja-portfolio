@@ -10,17 +10,15 @@ const About = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center mt-10">
           <div>
             <h3 className="text-2xl font-bold mb-6">
-              Data Scientist & AI Engineer with a focus on Business Intelligence
+            Data Scientist & Data Analyst | Passionate about AI & Business Intelligence
             </h3>
             <p className="text-gray-700 mb-6">
-              I am an AI & Data Science professional with expertise in machine learning, business intelligence, and cloud analytics. Currently pursuing an MSIM at the University of Washington, I specialize in data-driven decision-making, AI solutions, and scalable analytics.
-            </p>
+            I am a Data Science and Analytics professional with hands-on experience in data analysis, predictive modeling, and business intelligence. Currently pursuing an MSIM at the University of Washington, I specialize in data-driven decision-making and uncovering actionable insights from complex data.</p>
             <p className="text-gray-700 mb-6">
-              With hands-on experience in predictive modeling, NLP, and cloud platforms, I've successfully delivered AI-powered solutions that drive business impact.
-            </p>
+            With a strong foundation in machine learning, NLP, and cloud analytics, I’ve delivered impactful data solutions that inform strategy and improve performance. My projects span across customer analytics, marketing performance, and operational efficiency—leveraging tools like Python, SQL, Tableau, and cloud platforms.            </p>
             <p className="text-gray-700">
-              I'm passionate about using AI to solve real-world problems and drive business growth. Let's connect if you're looking for a professional who can turn data into value.
-            </p>
+            Deeply interested in AI, I continuously explore how emerging technologies can solve real-world problems and fuel business innovation. Let’s connect if you're looking for someone who bridges the gap between data science and strategic decision-making.
+</p>
           </div>
           
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">

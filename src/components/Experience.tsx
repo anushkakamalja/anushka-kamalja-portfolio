@@ -4,7 +4,7 @@ import { Calendar, MapPin } from 'lucide-react';
 const Experience = () => {
   const experiences = [
     {
-      title: "AI Engineer (Capstone Project)",
+      title: "Applied Data Scientist (Capstone Project)",
       company: "Trimlite LLC",
       logo: "/lovable-uploads/40bf05c6-4c70-4b5f-ab65-ccbfd609e6df.png",
       logoSize: "w-16 h-16 scale-150", // Increased size with scaling
@@ -12,12 +12,11 @@ const Experience = () => {
       location: "United States",
       url: "https://trimlite.com/?srsltid=AfmBOooqJIgbFPkc3wTgAg30SNgYGWMcT1aE0n_T3z5bkeR4qQN7W1Hm",
       description: [
-        "Conducting EDA and cleaning 90,000+ rows of sales and inventory data.",
-        "Clustering and analyzing sales by product families to identify patterns.",
-        "Developing time series forecasting models for monthly sales prediction.",
-        "Leveraging machine learning and generative AI for demand forecasting.",
-        "Optimizing inventory management to prevent stockouts and overstocking."
-      ]
+        "Led demand forecasting project using ARIMA, Prophet, and LSTM on 100k+ row supply chain dataset.",
+        "Built Python pipeline for data cleaning, transformation, and feature engineering to support model development.",
+        "Integrated Azure ML for scalable AI model experimentation and future deployment.",
+        "Developed interactive dashboards using Power BI to visualize model performance and business impact.",  
+        "Conducted weekly meetings with stakeholders to align progress and adapt models to business needs.",]
     },
     {
       title: "Business Analyst Intern",
@@ -37,7 +36,7 @@ const Experience = () => {
       ]
     },
     {
-      title: "Data Analyst",
+      title: "Data Analyst Intern",
       company: "UW Foster School of Business",
       logo: "/lovable-uploads/3b5f9302-ec08-4785-a37c-84182babde4a.png",
       logoSize: "w-16 h-16", // Customizable logo size
@@ -70,7 +69,7 @@ const Experience = () => {
       ]
     },
     {
-      title: "Data Analyst",
+      title: "Data Analyst Intern",
       company: "Ciora Solutions | Salesforce Partner",
       logo: "/lovable-uploads/6a0f34e6-f18f-4dde-a756-d1f74c1206e9.png",
       logoSize: "w-16 h-16", // Customizable logo size
@@ -84,7 +83,7 @@ const Experience = () => {
       ]
     },
     {
-      title: "Software Developer",
+      title: "Software Developer Intern",
       company: "TechCiti Software Consulting Private Limited",
       logo: "/lovable-uploads/cc6c8a13-0b73-4c39-b7c0-c421e1a70bf8.png",
       logoSize: "w-16 h-16", // Customizable logo size
